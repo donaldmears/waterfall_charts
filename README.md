@@ -1,2 +1,2 @@
 # waterfall_charts
-code to plot waterfall charts
+Takes a starting amount, an ending amount, and several intermediate factors from a CSV file and produces a waterfall chart. The chart visually explains how the starting value changed into the ending value by showing the positive and negative contributions along the way. The contributors are automatically sorted by their impact, and each step in the chart is labeled and color-coded for clarity.
